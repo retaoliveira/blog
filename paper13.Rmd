@@ -1,0 +1,26 @@
+---
+title: "The geography of warehouses in the São Paulo Metropolitan Region and contributing factors to this spatial distribution"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Journal of Transport Geography"
+doi: "10.1016/j.jtrangeo.2021.102976"
+citation_url: https://doi.org/10.1016/j.jtrangeo.2021.102976
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+This paper aims to characterize the relocation of warehouses in the São Paulo Metropolitan Region (SPMR) considering the spatial structure of changes in warehouse locations. We also discuss the potential factors that could attract warehouses to their location, especially in peripheral regions. The study encompasses the period between 1992 and 2017 and analyzes the influence of geographical, economics, road infrastructure, municipality service tax rate, cargo theft, and real estate prices on logistics facility location. The results show no evidence of logistics sprawl in SPMR during the studied period, although a small sprawl appeared between 2010 and 2017, moving the barycenter to the Northwestern direction of the SPMR. The main factors that influence the decision to move the warehouses are the low cost of land, lower tax, and a well-served infrastructure with highway intersections. There is a positive spatial correlation between warehouse per capita and cargo theft.
+
+## Keywords
+Urban freight transport; Logistics sprawl; São Paulo Metropolitan Region; Warehouse; Logistics facility location
+
+<a href="#top">Back to top</a>

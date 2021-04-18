@@ -1,0 +1,12 @@
+---
+author: Renata Oliveira
+date: '`r format(Sys.Date())`'
+title: Untitled
+output: html_document
+bibliography: My Collection.bib
+link-citations: true
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

@@ -1,0 +1,41 @@
+---
+title: "Publications in Journals"
+author: "Renata Lúcia Magalhães de Oliveira"
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+    css: styles.css
+    toc: true
+    toc_depth: 3
+---
+<link rel="stylesheet" href="./academicons-1.9.1/css/academicons.min.css">
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
++ [Analysis of the potential demand of automated delivery stations for e-commerce deliveries in Belo Horizonte, Brazil](https://retaoliveira.github.io/blog/paper1.html)
+
++ [A sustainable approach for urban farming based on city logistics concepts for local production and consumption of vegetables](https://retaoliveira.github.io/blog/paper2.html) 
+
++ [Analise do espraiamento logistico: um estudo para a regiao metropolitana de Belo Horizonte](https://retaoliveira.github.io/blog/paper3.html)
+
++ [Is the Location of Warehouses Changing in the Belo Horizonte Metropolitan Area (Brazil)? A Logistics Sprawl Analysis in a Latin American Context](https://retaoliveira.github.io/blog/paper4.html)
+
++ [An overview of problems and solutions for urban freight transport in Brazilian cities](https://retaoliveira.github.io/blog/paper6.html)
+
++ [Retailers and carriers' viewpoint on Sorocaba's city logistics: a spatial analysis](https://retaoliveira.github.io/blog/paper7.html)
+
++ [Accessibility to food retailers: The case of belo horizonte, Brazil](https://retaoliveira.github.io/blog/paper8.html)
+
++ [Analysis of accessibility from collection and delivery points: Towards the sustainability of the e-commerce delivery](https://retaoliveira.github.io/blog/paper9.html)
+
++ [Challenges to urban freight transport in historical cities: A case study for Sabara (Brazil)](https://retaoliveira.github.io/blog/paper10.html)
+
++ [Freight trip generation to buildings under construction: a comparative analysis with linear regression and generalised linear regression](https://retaoliveira.github.io/blog/paper11.html)
+
++ [An analysis of the effects on rail operational efficiency due to a merger between Brazilian rail companies: The case of rumo-all](https://retaoliveira.github.io/blog/paper12.html)
+
++ [The geography of warehouses in the Sao Paulo Metropolitan Region and contributing factors to this spatial distribution](https://retaoliveira.github.io/blog/paper13.html)
+
++ [Freight villages and urban goods distribution: perspectives of freight transport operators, experts, and policymakers from multi-criteria decision analysis](https://retaoliveira.github.io/blog/paper14.html)

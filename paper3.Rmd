@@ -1,0 +1,26 @@
+---
+title: "Análise do espraiamento logístico: um estudo para a região metropolitana de Belo Horizonte"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Transportes"
+doi: "10.14295/transportes.v25i4.1214"
+citation_url: https://doi.org/10.14295/transportes.v25i4.1214
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+A localização de instalações logísticas próximas à infraestrutura de transportes e ao destino das mercadorias é importante para a distribuição urbana de mercadorias e potencializa sustentabilidade econômica e ambiental em uma região. Neste artigo é analisado o espraiamento logístico na Região Metropolitana de Belo Horizonte e Colar Metropolitano entre os anos 1995-2015, utilizando dados secundários. Técnicas de análise espacial foram utilizadas para determinar o centro médio da localização dos equipamentos logísticos e a respectiva dispersão espacial. Os resultados indicaram um espraiamento logístico de 1,2 km (1995: 17,8 km para 2015: 19 km, no sentido noroeste da área de estudo). A mudança de eixo de dispersão da localização das instalações logísticas é consistente com as políticas de desenvolvimento metropolitanas. Foram ainda discutidas as mudanças em relação à tipologia dos armazéns e as possibilidades utilização dos resultados para a definição de políticas públicas de uso e ocupação do solo e mobilidade urbana.
+
+## Keywords
+Transporte urbano de mercadorias; Espraiamento logístico; Logística urbana.
+
+ <a href="#top">Back to top</a>

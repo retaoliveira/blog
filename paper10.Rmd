@@ -1,0 +1,27 @@
+---
+title: "Challenges to urban freight transport in historical cities: a case study for Sabará (Brazil)"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Transportation Research Procedia"
+doi: "10.1016/j.trpro.2019.06.039"
+citation_url: https://doi.org/10.1016/j.trpro.2019.06.039
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+Brazilian historical cities face the challenge of developing urban mobility plans, preserving the historical and cultural heritage and preserving the original urban characteristics. A plausible solution to reduce the impacts of the flow of goods in historical cities is to investigate different deliveries systems to reduce the externalities of this activity. This paper presents the results of a survey that identified the factors involved in the implementation of an Urban Distribution Centre (UDC) in Sabará (Brazil), considering modes non-motorized to perform the delivery in historic centres. For this, we identified the perception of retailers concerning historical and technical attributes. We analysed the data using descriptive statistics. The results indicate that lack of attractiveness of UDC, considering the point of view of retailers located in historic city centre. However, we identify the need to explore solutions for urban delivery in Brazilian historical cities to preserve historic heritage.
+
+## Keywords
+Urban freight transport; historical cities; urban distribution centre; non-motorized modes; retailers’ point of view
+
+
+<a href="#top">Back to top</a>

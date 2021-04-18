@@ -1,0 +1,26 @@
+---
+title: "Freight villages and urban goods distribution: perspectives of freight transport operators, experts, and policymakers from multi-criteria decision analysis"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "World Review of Intermodal Transportation Research"
+doi: "10.1504/WRITR.2021.113483"
+citation_url: https://dx.doi.org/10.1504/WRITR.2021.113483
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+A freight village is an option to reduce the externalities of urban freight transport and improve the efficiency of this activity. In this sense, its location is a factor in the accomplishment of the benefits promoted by city logistics solutions. This paper evaluates the use of freight villages for urban goods distribution. We used a multi-criteria decision analysis to identify the viewpoints of stakeholders involved in this solution (carriers, experts and policymakers). We applied this method to a case study in the city of Palmas, Brazil. The results indicate that there are different perspectives on the relevance of the criteria analysed, reinforcing the need for dialogue and participation of various stakeholders in the planning of urban freight transport, to encourage logistical solutions consistent with the requirements of urban freight transport.
+
+## Keywords
+Urban freight transport; urban distribution centre; freight village; freight cluster; multi-criteria decision analysis; analytic hierarchy process; stakeholders.
+
+<a href="#top">Back to top</a>

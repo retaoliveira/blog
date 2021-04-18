@@ -1,0 +1,29 @@
+---
+title: "A sustainable approach for urban farming based on city logistics concepts for local production and consumption of vegetables"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Research in Transportation Economics"
+  issn: 0739-8859
+  publisher: Elsevier
+#volume: 64
+#issue: 4
+doi: "10.1016/j.retrec.2021.101038"
+slug: Oliveira2021
+citation_url: https://www.sciencedirect.com/science/article/abs/pii/S073988592100010X?via%3Dihub
+#bibliography: biblio.bib
+output: distill::distill_article
+---
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+By 2050, there will be at least nine billion people in the world to be fed, and two-thirds of them will live in cities. A before-after assessment of an urban horticulture scenario is presented to address the negative impacts of goods distribution within cities. A baseline scenario for the current food system is compared with the proposed one, adapted to local production and consumption through a case study for Belo Horizonte (Brazil). A Life Cycle Assessment was considered to estimate the potential environmental impact reduction by implementing a local production and consumption model. The Ecoinvent dataset 3.5, exiobase2, and the CML impacts methods were used. The potential of global warming, acidification, photochemical oxidation, and human toxicity was determined for both scenarios. Moreover, fuel, infrastructure, and vehicle consumption concerning the changes among the settings were compared. All categories of environmental impact presented significant reductions regarding the changes among scenarios for the distribution of vegetables. This paper brings a phenomenological contribution to Belo Horizonte's city, which can be considered to subsidize public policy decision-making to support urban agriculture.
+
+## Keywords
+Urban agriculture; Life cycle assessment; Supply chain; Urban logistics; Last food mile
+ <a href="#top">Back to top</a>

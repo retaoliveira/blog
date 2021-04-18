@@ -1,0 +1,26 @@
+---
+title: "Is the Location of Warehouses Changing in the Belo Horizonte Metropolitan Area (Brazil)? A Logistics Sprawl Analysis in a Latin American Context"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Urban Science"
+doi: "10.3390/urbansci2020043"
+citation_url: https://doi.org/10.3390/urbansci2020043
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+The location of logistics facilities is important for urban freight transport. Several metropolitan regions have identified that logistics facilities are relocating to suburban areas outside city center boundaries. This phenomenon is known as logistics sprawl. In this paper, we present an analysis of the logistics sprawl phenomenon in the Belo Horizonte Metropolitan Area (Brazil) between 1995 and 2015, through spatial analysis. The results show a logistics sprawl indicator (average change in the standard distance to the center of gravity) of 1.2 km (17.8 km in 1995 and 19 km in 2015). In addition, we explored the spatial correlation between socioeconomic data and the location of warehouses. In 2015, 80% of warehouses were located in the high-income area. Additionally, most of the warehouses were located within a two-kilometer buffer from the axis of the road and in a five-kilometer buffer from the railroad. Finally, we defined the service areas of the warehouses considering a maximum distance through the network of 5, 10, and 15 km. In 2015, the 15-km service area had a coverage of 89% of the population in the study area.
+
+## Keywords
+Urban freight transport; logistics facilities; logistics sprawl; cluster analysis.
+
+ <a href="#top">Back to top</a>

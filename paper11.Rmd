@@ -1,0 +1,26 @@
+---
+title: "Freight trip generation to buildings under construction : a comparative analysis with linear regression and generalised linear regression"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Transportes"
+doi: "10.14295/transportes.v28i5.1885"
+citation_url: https://doi.org/10.14295/transportes.v28i5.1885
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+A estimativa do número de viagens geradas por uma empresa é parte essencial do processo de modelagem da demanda de carga. Nesse contexto, o presente estudo compara modelos de viagens de carga para edifícios em construção (BUC) estimados por regressão linear generalizada e regressão linear, em um estudo de caso para Belo Horizonte. As principais contribuições deste artigo estão relacionadas aos modelos para estimar viagens de carga para BUC, a verificação das premissas de linearidade dos modelos lineares e a comparação de diferentes técnicas de modelagem para oa geração de viagens de carga. As suposições de linearidade permitiram avaliar a confiabilidade dos resultados dos modelos de regressão linear. Os resultados indicam que os modelos com melhor acurácia na previsão de viagens de carga ao BUC são os modelos lineares que utilizam a área como variável explicativa.
+
+## Keywords
+Modelos de geração de viagens de carga. Edifícios em construção. Regressão linear. Regressão linear generalizada. Análise comparativa.
+
+<a href="#top">Back to top</a>

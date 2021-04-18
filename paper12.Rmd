@@ -1,0 +1,27 @@
+---
+title: "An Analysis of the Effects on Rail Operational Efficiency Due to a Merger between Brazilian Rail Companies: The Case of RUMO-ALL"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Sustainability"
+doi: "10.3390/su12124827"
+citation_url: https://doi.org/10.3390/su12124827
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+Mergers between companies are motivated by synergy effects that can improve profitability. On February 11, 2015, the Administrative Council for Economic Defense (Cade) approved, the merger between America Latina Logística (ALL), the largest railroad transport company in Brazil and Rumo Logistics (RUMO), an operator with national impact with restrictions, and formed a new entity RUMO-ALL. The approval of this merger suggested that there could be an increase in operational efficiency without compromising the competition. In this work, the operational efficiency of RUMO-ALL is evaluated using Data Envelopment Analysis (DEA) models for the return of adequate scale. Statistical tests of structural break are performed in order to understand if there are an ex-post merger effects on the operational efficiency after the expansion of the service. The results indicate that the rail service after the merger is efficient, but with marginal reduction of production with an increase of input, which is expected according to neoclassical economic theory for monopolies.
+
+## Keywords
+Rail; mergers; operational efficiency; DEA; Brazil
+
+
+<a href="#top">Back to top</a>

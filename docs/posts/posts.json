@@ -1,0 +1,61 @@
+[
+  {
+    "path": "posts/2021-04-19-como-deixar-o-r-com-a-minha-cara/",
+    "title": "Como deixar o RStudio com a minha cara",
+    "description": "Dica de site para customização do tema do RStudio",
+    "author": [
+      {
+        "name": "Renata Oliveira",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-19",
+    "categories": [],
+    "contents": "\r\n\r\nPara trocar o tema, basta fazer o download do tema favorito (ou criar o seu) e carrega no RStudio. Para isso:\r\nTools -> Global Options -> Appearance -> Add…\r\nTemas\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-19T19:41:49-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-18-books-for-r-implementations/",
+    "title": "Books for R implementations",
+    "description": "Suggestions of books for R learning.",
+    "author": [
+      {
+        "name": "Renata Oliveira",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [
+      "R",
+      "Rmarkdown,",
+      "Bookdown",
+      "e-books"
+    ],
+    "contents": "\r\n\r\nOliveira, Paulo Felipe de; Guerra, Saulo; McDonell, Robert. Ciência de Dados com R – Introdução. Brasília: Editora IBPAD, 2018\r\nText Mining with R by Julia Silge and David Robinson\r\nblogdown: Creating Websites with R Markdown by Yihui Xie, Amber Thomas, Alison Presmanes Hill\r\nEfficient R programming by Colin Gillespie and Robin Lovelace\r\nR para ciências sociais\r\nData Analysis and Prediction Algorithms with R by Rafael A. Irizarry\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-19T19:41:57-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-18-using-rmarkdown/",
+    "title": "Using RMarkdown",
+    "description": "How I started using RMarkdown",
+    "author": [
+      {
+        "name": "Renata Oliveira",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-18",
+    "categories": [
+      "R",
+      "Rmarkdown"
+    ],
+    "contents": "\r\n\r\nContents\r\nFuncionalidades\r\nInstalação e uso\r\nEstrutura dos documentos\r\nPackages que usam RMarkdown\r\nLinks interessantes\r\n\r\n\r\nPeríodos de pandemia são sempre interessantes! Falo como se tivesse passado por diversos momentos como este; felizmente, isso não é verdade! Entretanto, foi nesse período que descobri o Rmarkdown.\r\nO isolamento social trouxe possibilidades, como eu aprender o R. Pesquisando sobre Latex, tive acesso a diferentes linguagens para elaboração de relatórios reprodutíveis e dinâmicos. A necessidade faz a “força”. Resolvi explorar as possibilidades antes de me dedicar a aprender efetivamente alguma linguagem e descobri que o Rmarkdown é bem mais intuitivo e dinâmico do que o Latex, apesar de ainda precisar do Latex para implementação de equações, por exemplo.\r\nFuncionalidades\r\nCom RMarkdown, é possível:\r\nCompilar um documento em um relatório em diferentes formatos de saída, como PDF, HTML e Word.\r\nProduzir slides para apresentações.\r\nCriar dashboards interativas, com layouts atraentes e que se adaptam à tela do usuário.\r\nCriar relatórios interativos com Shiny.\r\nEscrever artigos científicos ou livros.\r\nCriar blogs ou sites.\r\nInstalação e uso\r\nPara começar a explorar esse mundo de textos dinâmicos, você precisa inicialmente:\r\n\r\n\r\ninstall.packages(\"knitr\")\r\ninstall.packages(\"rmarkdown\")\r\n\r\n\r\n\r\nDepois, crie um novo arquivo de RMarkdown usando o comando File > New > File menu e selecione R > RMarkdown na lista. No contexto de um projeto, clique com o botão direito do mouse no projeto no Gerenciador de Soluções e selecione Adicionar R Markdown (ou Adicionar > Novo Item e selecionando R Markdown na lista).\r\nEstrutura dos documentos\r\nTodo documento RMarkdown é composto por três importantes tipos de conteúdo:\r\n- Um cabeçalho YAML delimitado antes e depois por —\r\n- chunks de códigos R ou outra linguagem compatível delimitado por ` `.\r\n- Texto estruturado com formatação simples em\\#\\ para títulos e outros caracteres de formatação\r\nPackages que usam RMarkdown\r\nSe ficarem interessados em packages para construção de documentos em Rmarkdown, tenho usado:\r\n\r\n\r\nlibrary(vitae)\r\nlibrary(pagedown)\r\nlibrary(flexdashboard)\r\nlibrary(rticles)\r\nlibrary(bookdown)\r\nlibrary(distill)\r\nlibrary(hugodown)\r\nlibrary(xaringan)\r\nlibrary(xaringanExtra)\r\nlibrary(xaringanthemer)\r\n\r\n\r\n\r\nLinks interessantes\r\nAlguns links para quem quiser se aventurar na composição de artigos científicos, textos acadêmicos e não-acadêmicos, apresentações, dashboards, sites e outras possibilidades que o Rmarkdown nos proporciona.\r\nRMarkdown: o mínimo que você precisa saber\r\nPesquisa Reproduzível com R by Fernando Mayer e Walmes Zeviani\r\nRmarkdown-rautu\r\nIniciação do RMarkdown by Jayme Gomes dos Santos Junior\r\nIntrodução a R para Visualização e Apresentação de Dados by Sillas Gonzaga\r\nR Markdown: The Definitive Guide by Yihui Xie, J. J. Allaire, Garrett Grolemund O site Pimp my rmd traz uma série de dicas interessantes para construção de arquivos com linguagem RMarkdown.\r\nR Markdown - The Definitive Guide by Yihui Xie, J. J. Allaire, Garrett Grolemund\r\nIntroduction to R Markdown by Michael Clark\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-04-19T19:42:06-03:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,31 @@
+---
+title: "Analysis of the potential demand of automated delivery stations for e-commerce deliveries in Belo Horizonte, Brazil"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Research in Transportation Economics"
+  issn: 0739-8859
+  publisher: Elsevier
+volume: 64
+issue: 4
+doi: "10.1016/j.retrec.2017.09.003"
+slug: Oliveira2017
+citation_url: http://www.sciencedirect.com/science/article/pii/S0739885917301762
+bibliography: 'My Collection.bib'
+output: distill::distill_article
+---
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+The problems related to home delivery become increasingly evident with the growth of electronic commerce. Automatic delivery stations represent a solution to reduce mislaid deliveries and consolidate parcels drop-off, minimizing the kilometers travelled, and the costs of urban goods distribution. In order to better understand online shoppers' attitudes towards new delivery services, we analyze the potential demand of automatic delivery stations (lockers) in the city of Belo Horizonte, Brazil. For this purpose, we develop a survey according to stated preference and revealed preference methods, and we assess potential users considering two deliveries services: home delivery and automated delivery stations. The results indicate that, although home delivery is the preferred option, automatic delivery stations score high potential demand for online shoppers. This paper provides an approach to integrate the impact of final consumers' preferences on shaping last-mile operations, and it thus helps policymakers to identify the most suitable innovations to specific urban settings.
+
+## Keywords
+E-commerce; Last mile problem; Home delivery; Pick-up points; Stated preference survey
+
+ <a href="#top">Back to top</a>

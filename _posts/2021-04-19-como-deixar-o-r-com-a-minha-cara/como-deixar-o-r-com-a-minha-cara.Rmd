@@ -1,0 +1,27 @@
+---
+title: "Como deixar o RStudio com a minha cara"
+description: |
+  Dica de site para customização do tema do RStudio
+author:
+  - name: Renata Oliveira
+    url: {}
+date: 04-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Para trocar o tema, basta fazer o download do tema favorito (ou criar o seu) e carrega no RStudio. Para isso: 
+
+Tools -> Global Options -> Appearance -> Add...
+
++ [Temas](https://tmtheme-editor.herokuapp.com/#!/editor/theme/Abdal%20Black%20Hackers)
+
+

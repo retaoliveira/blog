@@ -1,0 +1,26 @@
+---
+title: "Retailers and carriers’ viewpoint on Sorocaba’s city logistics: a spatial analysis"
+date: "`r Sys.Date()`"
+author:
+  - name: Renata Lúcia Magalhães de Oliveira
+    url: https://retaoliveira.github.io/blog
+    affiliation: Federal Center for Technological Education of Minas Gerais
+    affiliation_url: www.cefetmg.br
+    orcid_id: 0000-0002-9011-2342
+journal: 
+  title: "Urbe"
+doi: "10.1590/2175-3369.012.e20190140"
+citation_url: https://doi.org/10.1590/2175-3369.012.e20190140
+output: distill::distill_article
+---
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## Abstract
+
+The spatial differentiation of the main constraints and challenges on urban freight transportation can support more assertive public policies and measures, subsidizing city logistics solutions. This paper presents the use of spatial analysis to characterize retailers and carriers’ perceptions on the most important constraints and challenges faced during the urban freight delivery in the central area of Sorocaba/SP. To identify possible clustered patterns concerning problems and solutions from the stakeholders’ viewpoint, the data were analyzed through two spatial techniques: Average Nearest Neighbors and Getis Gi Ord* Hot Spots analysis. These two methodological approaches provide a spatial concentration analysis. As a result, we determined the spatial patterns of stakeholders’ perception for the two groups of variables assessed: (i) the Northwestern portion of Sorocaba’s central area is not prepared to receive the demands of vehicles, and the stakeholders present restrictions related to off-peak deliveries; (ii) the Northeastern region has the greatest negative perception regarding the assessed attributes, and shows little evidence that the loading and unloading space is not appropriate.
+
+## Keywords
+Spatial analysis. Urban freight. Local constraints. Logistical challenges.
+
+ <a href="#top">Back to top</a>

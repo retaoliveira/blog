@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Places</title>
+    <link>https://retaoliveira.github.io/blog</link>
+    <atom:link href="https://retaoliveira.github.io/blog/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Places Research Group
+</description>
+    <image>
+      <title>Places</title>
+      <url>https://retaoliveira.github.io/blog/img/favicon.png</url>
+      <link>https://retaoliveira.github.io/blog</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Como deixar o RStudio com a minha cara</title>
+      <dc:creator>Renata Oliveira</dc:creator>
+      <link>https://retaoliveira.github.io/blog/posts/2021-04-19-como-deixar-o-r-com-a-minha-cara</link>
+      <description>Dica de site para customização do tema do RStudio</description>
+      <guid>https://retaoliveira.github.io/blog/posts/2021-04-19-como-deixar-o-r-com-a-minha-cara</guid>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Books for R implementations</title>
+      <dc:creator>Renata Oliveira</dc:creator>
+      <link>https://retaoliveira.github.io/blog/posts/2021-04-18-books-for-r-implementations</link>
+      <description>Suggestions of books for R learning.</description>
+      <category>R</category>
+      <category>Rmarkdown,</category>
+      <category>Bookdown</category>
+      <category>e-books</category>
+      <guid>https://retaoliveira.github.io/blog/posts/2021-04-18-books-for-r-implementations</guid>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Using RMarkdown</title>
+      <dc:creator>Renata Oliveira</dc:creator>
+      <link>https://retaoliveira.github.io/blog/posts/2021-04-18-using-rmarkdown</link>
+      <description>How I started using RMarkdown</description>
+      <category>R</category>
+      <category>Rmarkdown</category>
+      <guid>https://retaoliveira.github.io/blog/posts/2021-04-18-using-rmarkdown</guid>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

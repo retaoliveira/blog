@@ -1,0 +1,86 @@
+---
+title: "About me"
+description: |
+  A little bit about me, my working activities, intelectual production and random thoughts!
+site: distill::distill_website
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<link rel="stylesheet" href="academicons-1.9.1/css/academicons.min.css"/>
+
+## **RENATA LÚCIA MAGALHÃES DE OLIVEIRA**
+
+
+### [Résumé](https://github.com/retaoliveira/relements/raw/main/texto/index.pdf)
+
+<aside>
+```{r, out.width="50%"}
+knitr::include_graphics("img/logo.png")
+```
+</aside>
+
+I am currently an associate professor at the Federal Center for Technological Education of Minas Gerais, where I have been teaching applied geography to Social Sciences, transportation geography, urban analytics, data analysis for management, and urban logistics courses since 2006. After concluding my doctorate in Geography in 2016, I have been involved in research projects focusing on geocomputation to implement spatial analysis methods to characterize, explain and assess urban and regional planning, city logistics solutions, and accessibility-oriented planning.
+
+Some of the research projects I have worked in concern: 
+
++ the development of trip generation models regarding the logistics facilities in the Belo Horizonte Metropolitan Region; 
+
++ warehousing location in Belo Horizonte and São Paulo Metropolitan Area, concerning morphological and functional aspects of the city; 
+
++ the analysis of temporal and spatial changes regarding the distribution of logistics facilities in metropolitan areas; 
+
++ spatial modeling of urban freight transport in middle-sized cities and historical cities; assessment of potential locations for a pickup points network in Belo Horizonte; 
+
++ and accessibility-oriented planning to promote equity considering the access to urban functions and the morphological structure of the cities. 
+
+I have just concluded a post-doctoral research with the City Logistics Chair and under the orientation of Prof. Dr. Laetitia Dablanc. My role as a postdoctoral researcher concerned investigating warehouses' location changes in different metropolitan areas and their relationship with the urban structure and real estate market practices.
+
+I'm also a researcher at the PLACES - PLanning for ACcESs research group with a focus on accessibility oriented planning, Urban Freight Transportation and applied spatial analysis. I'm a member of the Network on Intelligent Urban Mobility and Accessibility Research (NIUMAR) and of the Network for Organizational Studies, Society and Subjectivity (NOSS).
+
+## Skills {#skills}
+
+<i class="fas fa-globe"></i> GIS and spatial analysis software (ArcGIS, QGIS, GeoDa, Maptitude, Transcad, Mapinfo)\
+<i class="fab fa-r-project"></i> Data Analysis and Geocomputation with R   
+<i class="fas fa-people-carry"></i> Effective team-working\
+<i class="fas fa-thumbs-up"></i> Comprehensive understanding of problem-solving and decision making\
+<i class="fas fa-child"></i> Mindful parenting
+
+## Languages {#languages}
+
+**Portuguese:** Native   
+**English:** Proficient (C2)   
+**French:** Intermediate (B1)  
+
+
+## Funding and Prizes {data-icon="trophy"}
+
+### Productivity research grant - CNPq   
+
+National Council for Scientific and Technological Research 
+
+Brasília, Brazil
+
+2019 - 2022
+
+Grant number: 312750/2018-8
+
+### One of the best Papers presented at PLURIS 2018
+
+Publication in Revista Portuguesa de Estudos Regionais as a prize for being among the 12 best papers presented in PLURIS 2018 (Congresso Luso-Brasileiro para o Planejamento Urbano, Regional, Integrado e Sustentável).
+
+Lisbon, Portugal
+
+2018
+
+### Honored lecturer
+
+Honored lecturer for nine years in the different educational institutions.
+
+Belo Horizonte, Brazil
+
+Since 2003
+
